@@ -5,6 +5,8 @@ Just Barran 28/11/2020
 www.youtube.com/c/justbarran
 
 
+www.instructables: https://www.instructables.com/Make-Your-Robot-Vacuum-Say-Custom-Phases-When-It-B/
+
 Full Video https://youtu.be/GLvS-KOgH4k
 
 Datasheet: https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
