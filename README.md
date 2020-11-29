@@ -1,6 +1,6 @@
 # Robot-vacuum-that-says-Ouch-
 
-Just Barran 28/110/2020
+Just Barran 28/11/2020
 
 www.youtube.com/c/justbarran
 
